@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "simon"
+  "defaultProject": "simon",
+  "cli": {
+    "analytics": false
+  }
 }
